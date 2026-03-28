@@ -57,7 +57,8 @@ Final Advice: Focus on weak subjects to improve overall performance
 
 ## Output Screenshot
 
-<img width="615" height="391" alt="image" src="https://github.com/user-attachments/assets/f43b174e-9dff-433f-a3b6-352601ea7b03" />
+
+<img width="609" height="392" alt="image" src="https://github.com/user-attachments/assets/45a077d5-bed4-4f59-976e-7c8f631adf19" />
 
 
 
