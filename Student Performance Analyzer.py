@@ -1,4 +1,3 @@
-5
 class_choice = input("In which class you study 10th or 12th? ")
 
 if class_choice == "10th" or class_choice == "10":
