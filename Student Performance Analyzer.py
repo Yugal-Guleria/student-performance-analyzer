@@ -1,4 +1,4 @@
-12345678
+123456789
 
 class_choice = input("In which class you study 10th or 12th? ")
 
